@@ -2,8 +2,6 @@
 
 This project showcases a complete data warehousing and analytics solution, including building a PostgreSQL data warehouse and generating insights from integrated data sources. Intended as a data engineering and analytics project, it highlights for e-commerce and retail industry.
 
-**Credits:** This project is inspired by *[Data with Baraa](https://youtu.be/9GVqKuTVANE)*.
-
 ---
 ## 🏗️ Data Architecture
 
@@ -63,10 +61,8 @@ data-warehouse-and-analytics-project/
 │
 ├── docs/                           # Project documentation and architecture details
 │   ├── data_architecture.png       # Medallion architecture (Bronze, Silver and Gold)
-│   ├── data_catalogue.md           # Catalog of datasets (metadata)
 │   ├── data_flow.png               # Data flow diagram
 │   ├── data_model.png              # Data model diagram, integrating the data tables into star schema.
-│   ├── naming_conventions.md       # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                        # SQL scripts for ETL pipeline
 │   ├── bronze/                     # Scripts for extracting and loading raw data
@@ -77,7 +73,6 @@ data-warehouse-and-analytics-project/
 │
 ├── README.md # Project overview and instructions
 ├── LICENSE # License information for the repository
-├── .gitignore # Files and directories to be ignored by Git
 ```
 
 ---
