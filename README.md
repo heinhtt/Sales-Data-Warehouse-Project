@@ -62,7 +62,7 @@ data-warehouse-and-analytics-project/
 ├── docs/                           # Project documentation and architecture details
 │   ├── data_architecture.png       # Medallion architecture (Bronze, Silver and Gold)
 │   ├── data_flow.png               # Data flow diagram
-│   ├── data_model.png              # Data model diagram, integrating the data tables into star schema.
+│   ├── data_model.png              # Data model diagram, integrating the data tables into star schema
 │
 ├── scripts/                        # SQL scripts for ETL pipeline
 │   ├── bronze/                     # Scripts for extracting and loading raw data
