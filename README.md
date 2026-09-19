@@ -64,15 +64,18 @@ data-warehouse-and-analytics-project/
 │   ├── data_flow.png               # Data flow diagram
 │   ├── data_model.png              # Data model diagram, integrating the data tables into star schema
 │
+├── report/                         # SQL report queries
+│   ├── analytics_queries.sql       # Scripts for exploratory data analysis
+│
 ├── scripts/                        # SQL scripts for ETL pipeline
 │   ├── bronze/                     # Scripts for extracting and loading raw data
 │   ├── silver/                     # Scripts for cleansing and transforming data
 │   ├── gold/                       # Scripts for modeling and loading analytics-ready data
 │
-├── tests/ # Test scripts and quality files
+├── tests/                          # Test scripts and quality files
 │
-├── README.md # Project overview and instructions
-├── LICENSE # License information for the repository
+├── README.md                       # Project overview and instructions
+├── LICENSE                         # License information for the repository
 ```
 
 ---
