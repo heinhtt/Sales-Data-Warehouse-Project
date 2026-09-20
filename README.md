@@ -72,7 +72,7 @@ data-warehouse-and-analytics-project/
 │   ├── silver/                     # Scripts for cleansing and transforming data
 │   ├── gold/                       # Scripts for modeling and loading analytics-ready data
 │
-├── tests/                          # Test scripts and quality files
+├── tests/                          # Test scripts and quality control files
 │
 ├── README.md                       # Project overview and instructions
 ├── LICENSE                         # License information for the repository
