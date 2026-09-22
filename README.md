@@ -1,6 +1,6 @@
 # ETL Pipeline for Retail Analytics: From Raw Data to a Centralized Data Warehouse
 
-This project showcases a complete data warehousing and analytics solution, including building a PostgreSQL data warehouse and generating insights from integrated data sources. Intended as a data engineering and analytics project, it highlights for e-commerce and retail industry.
+This project showcases a complete data warehousing and analytics solution, including building a PostgreSQL data warehouse and generating insights from integrated data sources. Developing reliable and repeatable ETL pipelines, it highlights for e-commerce and retail industry.
 
 ---
 ## 🏗️ Data Architecture
